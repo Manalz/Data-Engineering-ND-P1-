@@ -1,0 +1,23 @@
+{
+  "data_asset_type": null,
+  "expectation_suite_name": "songplays.warning",
+  "expectations": [],
+  "meta": {
+    "citations": [
+      {
+        "batch_kwargs": {
+          "data_asset_name": "songplays",
+          "datasource": "project-1",
+          "limit": 1000,
+          "schema": "public",
+          "table": "songplays"
+        },
+        "batch_markers": null,
+        "batch_parameters": null,
+        "citation_date": "20200825T153433.432789Z",
+        "comment": "New suite added via CLI"
+      }
+    ],
+    "great_expectations_version": "0.12.0"
+  }
+}

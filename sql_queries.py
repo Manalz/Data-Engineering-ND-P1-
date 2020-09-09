@@ -26,7 +26,7 @@ user_table_create = (""" CREATE TABLE IF NOT EXISTS users
                           first_name VARCHAR, 
                           last_name VARCHAR,
                           gender VARCHAR, 
-                          level int, 
+                          level VARCHAR, 
                           PRIMARY KEY (user_id))
                            """)
 
